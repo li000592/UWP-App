@@ -1,0 +1,36 @@
+﻿<Page
+    x:Class="UWPFinal_Haorong.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UWPFinal_Haorong"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.TopAppBar>
+        <CommandBar Background="Transparent" IsOpen="False">
+            <CommandBar.SecondaryCommands>
+                <AppBarButton Click="aboutButton_Click"  Name="aboutButton" Icon="Setting" Label="About"/>
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.TopAppBar>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.15*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Name="imageStackPanel" Grid.Row="1">
+            <StackPanel.Background>
+                <ImageBrush Stretch="Fill" ImageSource="/Assets/mainPageImage.jpg" />
+            </StackPanel.Background>
+        </StackPanel>
+
+        <TextBlock Name="pageTitle" HorizontalAlignment="Center" VerticalAlignment="Top" Text="Main Page" Style="{StaticResource TitleTextBlockStyle}"/>
+        <StackPanel HorizontalAlignment="Center" Name="buttonStackPanel" Orientation="Horizontal" Margin="10">
+            <Button Name="ImageButton" Click="ImageButton_Click" Content="Image" Margin="10"/>
+            <Button Name="videoButton" Click="videoButton_Click" Content="Video" Margin="10"/>
+                    
+        </StackPanel>
+    </Grid>
+</Page>
