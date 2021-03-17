@@ -42,5 +42,9 @@ namespace UWPFinal_Haorong
             Frame.Navigate(typeof(AboutPage));
         }
 
+        private void drawingButton_Click(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(FeaturePage));
+        }
     }
 }

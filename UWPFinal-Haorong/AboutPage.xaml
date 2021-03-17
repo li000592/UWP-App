@@ -17,10 +17,10 @@
         <TextBlock Name="pageTitle" Text="Aout Page" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="20,0,20,0" Style="{StaticResource TitleTextBlockStyle}"/>
 
         <StackPanel Grid.Row="1">
-            <Image HorizontalAlignment="Center" VerticalAlignment="Top" Height="400" Source="/Assets/Square44x44Logo.scale-200.png" />
+            <Image HorizontalAlignment="Center" VerticalAlignment="Top" Height="400" Source="/Assets/avatar.jpeg" />
             <TextBlock Name="versionLabel" Text="UWP Final version: " FontSize="24" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="20"/>
 
-            <HyperlinkButton Click="webLinkButton_Click" Name="webLinkButton" Content="Haorong" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10" FontSize="24"/>
+            <HyperlinkButton Click="webLinkButton_Click" Name="webLinkButton" Content="Haorong's Github" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10" FontSize="24"/>
             <HyperlinkButton Click="emailLinkButton_Click"  Name="emailLinkButton" Content="li000592@algonquinlive.com" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10" FontSize="24"/>
         </StackPanel>
 

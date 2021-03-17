@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>EDB55792031154BAAA168D6AADC9275544C769592A779C0A0EA6B60C69C313F7</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>D8BBC69279A3F92A1367CACEDF6925CAA66FC465C05CE7BCB2746FF38222F526</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>39588356-1aed-41c4-91cc-bb52701078a4_1.0.0.0_x86__ds05gm4h8ea5r</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>39588356-1aed-41c4-91cc-bb52701078a4_ds05gm4h8ea5r!App</RegisteredUserModeAppID>
     <RegisteredPackageID>39588356-1aed-41c4-91cc-bb52701078a4</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-03-15T21:32:45.076</Modified>
+      <Modified>2021-03-17T00:24:00.702</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\bin\x86\Debug\UWPFinal-Haorong.exe">
       <PackagePath>entrypoint\UWPFinal-Haorong.exe</PackagePath>
-      <Modified>2021-03-15T21:32:44.392</Modified>
+      <Modified>2021-03-17T00:24:00.237</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -45,6 +45,293 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2019-12-07T01:24:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\avatar.jpeg">
+      <PackagePath>Assets\avatar.jpeg</PackagePath>
+      <Modified>2021-03-16T05:01:48.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.707</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\BadgeLogo.scale-125.png">
+      <PackagePath>Assets\BadgeLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\BadgeLogo.scale-150.png">
+      <PackagePath>Assets\BadgeLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.726</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\BadgeLogo.scale-200.png">
+      <PackagePath>Assets\BadgeLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.741</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\BadgeLogo.scale-400.png">
+      <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.999</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.377</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.411</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.431</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.534</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.172</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.197</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.111</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.025</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.606</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2021-01-12T15:17:46.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.487</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:19.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-03-16T04:51:18.632</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\homePageImage.jpg">
+      <PackagePath>Assets\homePageImage.jpg</PackagePath>
+      <Modified>2021-03-16T04:41:03.999</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\mainPageImage.jpg">
       <PackagePath>Assets\mainPageImage.jpg</PackagePath>
@@ -58,67 +345,33 @@
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2021-03-10T04:35:35.713</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\LockScreenLogo.scale-200.png">
-      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2021-01-12T15:17:46.642</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\SplashScreen.scale-200.png">
-      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-01-12T15:17:46.649</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square150x150Logo.scale-200.png">
-      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-01-12T15:17:46.650</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.scale-200.png">
-      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-01-12T15:17:46.651</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
-      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-01-12T15:17:46.652</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-01-12T15:17:46.653</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\Assets\Wide310x150Logo.scale-200.png">
-      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-01-12T15:17:46.654</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\bin\x86\Debug\UWPFinal-Haorong.xr.xml">
       <PackagePath>UWPFinal-Haorong.xr.xml</PackagePath>
-      <Modified>2021-03-15T21:19:38.463</Modified>
+      <Modified>2021-03-17T00:18:16.252</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-03-15T21:32:44.316</Modified>
+      <Modified>2021-03-16T20:51:05.083</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\bin\x86\Debug\AboutPage.xbf">
       <PackagePath>AboutPage.xbf</PackagePath>
-      <Modified>2021-03-15T21:32:44.317</Modified>
+      <Modified>2021-03-16T20:51:05.084</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\bin\x86\Debug\FeaturePage.xbf">
       <PackagePath>FeaturePage.xbf</PackagePath>
-      <Modified>2021-03-15T21:32:44.317</Modified>
+      <Modified>2021-03-16T20:51:05.084</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\bin\x86\Debug\ImagePage.xbf">
       <PackagePath>ImagePage.xbf</PackagePath>
-      <Modified>2021-03-15T21:32:44.317</Modified>
+      <Modified>2021-03-16T20:51:05.084</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-03-15T21:32:44.317</Modified>
+      <Modified>2021-03-17T00:24:00.166</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\bin\x86\Debug\VideoPage.xbf">
       <PackagePath>VideoPage.xbf</PackagePath>
-      <Modified>2021-03-15T21:32:44.317</Modified>
+      <Modified>2021-03-16T20:51:05.084</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -126,11 +379,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-03-15T21:32:44.508</Modified>
+      <Modified>2021-03-16T05:03:08.261</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\liuzi\source\repos\UWPFinal-Haorong\UWPFinal-Haorong\bin\x86\Debug\Core\UWPFinal-Haorong.exe">
       <PackagePath>UWPFinal-Haorong.exe</PackagePath>
-      <Modified>2021-03-15T21:32:45.072</Modified>
+      <Modified>2021-03-17T00:24:00.697</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

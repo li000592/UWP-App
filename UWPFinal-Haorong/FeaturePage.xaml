@@ -8,7 +8,31 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid>
-
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel x:Name="HeaderPanel" Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row="0">
+            <TextBlock x:Name="Header"
+                   Text="Drawing Space"
+                   VerticalAlignment="Center"
+                   Style="{ThemeResource HeaderTextBlockStyle}"
+                   Margin="10,0,0,0" />
+            <TextBlock Text="Color:"
+                   Style="{StaticResource SubheaderTextBlockStyle}"
+                   VerticalAlignment="Center"
+                   Margin="50,0,10,0"/>
+            <ComboBox x:Name="PenColor"
+                  VerticalAlignment="Center"
+                  SelectedIndex="0"
+                  SelectionChanged="OnPenColorChanged">
+                <ComboBoxItem Content="Black"/>
+                <ComboBoxItem Content="Red"/>
+            </ComboBox>
+        </StackPanel>
+        <Grid Grid.Row="1">
+            <InkCanvas x:Name="inkCanvas" />
+        </Grid>
     </Grid>
 </Page>

@@ -22,15 +22,32 @@
 
         <StackPanel x:ConnectionId='3' Name="imageStackPanel" Grid.Row="1">
             <StackPanel.Background>
-                <ImageBrush Stretch="Fill" ImageSource="/Assets/mainPageImage.jpg" />
+                <ImageBrush Stretch="Fill" ImageSource="/Assets/homePageImage.jpg" />
             </StackPanel.Background>
         </StackPanel>
 
         <TextBlock x:ConnectionId='4' Name="pageTitle" HorizontalAlignment="Center" VerticalAlignment="Top" Text="Main Page" Style="{StaticResource TitleTextBlockStyle}"/>
         <StackPanel x:ConnectionId='5' HorizontalAlignment="Center" Name="buttonStackPanel" Orientation="Horizontal" Margin="10">
-            <Button x:ConnectionId='6' Name="ImageButton"                           Content="Image" Margin="10"/>
-            <Button x:ConnectionId='7' Name="videoButton"                           Content="Video" Margin="10"/>
-                    
+            <Button x:ConnectionId='6' Name="ImageButton"                           Margin="10">
+                <StackPanel>
+                    <SymbolIcon Symbol="BrowsePhotos"/>
+                    <TextBlock>Image</TextBlock>
+                </StackPanel>
+                </Button>
+
+
+            <Button x:ConnectionId='7' Name="videoButton"                            Margin="10">
+                <StackPanel>
+                    <SymbolIcon Symbol="Video"/>
+                    <TextBlock>Video</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button x:ConnectionId='8' Name="drawingButton"                              Margin="10">
+                <StackPanel>
+                    <SymbolIcon Symbol="Highlight"/>
+                    <TextBlock>Drawing</TextBlock>
+                </StackPanel>
+            </Button>
         </StackPanel>
     </Grid>
 </Page>

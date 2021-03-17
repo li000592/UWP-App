@@ -31,7 +31,7 @@ namespace UWPFinal_Haorong
 
         private async void webLinkButton_Click(object sender, RoutedEventArgs e)
         {
-            Uri weblink = new Uri("https://google.com");
+            Uri weblink = new Uri("https://github.com/li000592");
             await Windows.System.Launcher.LaunchUriAsync(weblink);
         }
 
